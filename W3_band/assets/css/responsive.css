@@ -1,0 +1,96 @@
+
+
+
+
+/* Tablet & Mobile */
+@media (max-width:63.9375em){
+    #nav .subnav a{
+        padding: 2px 16px;
+    }
+    .product-buy-btn{
+        padding: 20px 16px;
+        text-align: center;
+        line-height: 8px;
+    }
+    #footer .social-list{
+        font-size: 38px;
+    }
+    #footer .social-list a{
+        padding: 8px;
+    }
+    #footer .social-list{
+        display: inline-block;
+        padding: 12px;
+    }
+    .contact-address p{
+        line-height: 2;
+    }
+}
+
+
+/* Mobile */
+@media (max-width:46.1875em){
+    .s-col-full,
+    .s-full-width{
+        width: 100%;
+    }
+    .s-row{
+        margin-right: 8px;
+        margin-left: 8px;
+    }
+    .s-mt-8{
+        margin-top: 8px;
+    }
+    #header{
+        overflow: hidden;
+    }
+    #header .nav-Search{
+        display: none;
+    }
+    #header .menu-list{
+       display: block;
+    }
+    #nav{
+        display: block;
+    }
+    #nav > li {
+        display: block;
+    }
+    #nav > li > a{
+        display: block;
+        
+    }
+    #nav > li:first-child{
+        display: inline-block;
+    }
+    #nav .subnav{
+        position: initial;
+        background-color: black;
+        
+    }
+    #nav .subnav a{
+        color: white;
+        display: block;
+        padding: 2px 36px;
+    }
+    #content .content-section{
+        width: 100%;
+    }
+    #content .Brand-class{
+        width: 100%;
+        margin-top: 30px;
+    }
+    #content ..Brand-img{
+        width: 60%;
+    }
+    .product-type{
+        width: 100%;
+    }
+    .form-contact{
+        width: 100%;
+    }
+    .contact-form{
+        margin-top: 32px;
+    }
+    
+}    

@@ -1,0 +1,3 @@
+line height: chiều cao của dòng chữ
+:hover: di chuột vào đổi màu
+
